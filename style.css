@@ -1,0 +1,44 @@
+body {
+    font-size: 15pt;
+    background-color: #515D6E;
+    margin: auto;
+    
+    
+}
+#nameOfBran{
+  
+}
+
+#hobbies{
+  background-color: #4C9A79;
+  text-align: center;
+  margin: auto;
+  border-radius: 30px;
+  
+  
+}
+.hobbiesImg{
+  height: 150px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+#bottomDiv{
+  background-color: #7AB4C1;
+  text-align: center;
+}
+
+.bottomImg{
+  width: 50%;
+  height: 50%;
+  
+}
